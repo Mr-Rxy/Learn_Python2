@@ -1,2 +1,2 @@
 # Learn_Python2
-菜鸟教程
+简明 Python 教程
